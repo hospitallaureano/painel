@@ -65,9 +65,7 @@
                   <span class="input is-fullwidth">
                     <select v-model="config.theme"  style="width: 100%; border:none;">
                       <option value="Default">Padrão SGA</option>
-                      <option value="DefaultCampus">Campus Palmas</option>
-                      <option value="DefaultCSI">Padrão CSI</option>
-					  <option value="DefaultHospital">Padrão</option>
+					            <option value="DefaultHospital">Padrão</option>
                     </select>                    
                   </span>
                   <span class="icon is-left">
