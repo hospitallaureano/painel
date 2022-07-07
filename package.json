@@ -68,7 +68,7 @@
     "vuex-electron": "^1.0.0",
     "bulma": "^0.7.1",
     "font-awesome": "^4.7.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "promise-queue": "^2.2.3",
     "socket.io-client": "^2.0.3",
     "vue-swal": "0.0.6"
